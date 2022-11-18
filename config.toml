@@ -1,4 +1,4 @@
-baseURL = "https://ITpage.eurielec.etsit.upm.es"
+baseURL = "https://it.eurielec.etsit.upm.es"
 theme = "hugo-ficurinia"
 title = "IT Page"
 languageCode = "en"
